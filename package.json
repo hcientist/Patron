@@ -1,0 +1,22 @@
+{
+  "name": "Patron",
+  "version": "0.0.0",
+  "description": "supports artists in tracking their work (pieces) in various locations (galleries, storage, etc.)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thegreatmichael/Patron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegreatmichael/Patron/issues"
+  },
+  "homepage": "https://github.com/thegreatmichael/Patron",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
