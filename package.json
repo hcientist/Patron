@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/thegreatmichael/Patron",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "sequelize": "^2.0.5",
+    "rsvp": "^3.0.17"
   }
 }
